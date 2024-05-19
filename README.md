@@ -34,10 +34,10 @@ Managing revenue can be challenging, especially for small businesses. Raksha Rev
 - Designed and developed interactive dashboards within Power BI to visualize key insights derived from the cleaned dataset. The dashboards provide intuitive representations of the Financial analysts who require detailed revenue reports.
 ## DASH BOARD
 ![Raksha Revenue Tracker](https://github.com/Sibasankar2382/Raksha-Revenue-Tracker/blob/main/Raksha%20Revenue%20BI.PNG)
+
+
 ## Conclusion
--
-## Conclusion
-Raksha Revenue Tracker is an essential tool for anyone looking to manage their revenue streams effectively. With its real-time tracking, detailed analytics, and customizable dashboards, it provides users with the insights needed to make informed financial decisions. Whether you are a small business owner, freelancer, or financial analyst, Raksha Revenue Tracker offers the features and flexibility to meet your needs. By simplifying revenue management and providing powerful data analysis capabilities, it empowers users to take control of their financial health and drive their business success. We invite you to explore the possibilities with Raksha Revenue Tracker and see how it can transform your revenue management process.
+Raksha Revenue Tracker is an essential tool for anyone looking to manage their revenue streams effectively. With its real-time tracking, detailed analytics, and customizable dashboards, it provides users with the insights needed to make informed financial decisions. Whether you are a small business owner, freelancer, or financial analyst, Raksha Revenue Tracker offers the features and flexibility to meet your needs. By simplifying revenue management and providing powerful data analysis capabilities, it empowers users to take control of their financial health and drive their business success. We invite you to explore the possibilities with Raksha Revenue Tracker and see how it can transform your revenue management process.Thank You!
 
 
 
