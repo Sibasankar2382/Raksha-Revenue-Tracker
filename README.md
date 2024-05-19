@@ -3,5 +3,10 @@
 
 
 ## Introduction
-Raksha Revenue Tracker is a comprehensive tool designed to help businesses and individuals track their revenue efficiently. With its user-friendly interface and powerful analytics, it enables users to monitor financial performance, identify trends, and make informed decisions.
 
+Raksha Revenue Tracker is a comprehensive tool designed to help businesses and individuals track their revenue efficiently. With its user-friendly interface and powerful analytics, it enables users to monitor financial performance, identify trends, and make informed decisions.
+## Technologies Used
+* Faker (for data Creation)
+* Pandas (for data manipulation)
+* MySQL
+* Power BI (for data visualization)
