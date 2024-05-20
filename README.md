@@ -17,7 +17,7 @@ Managing revenue can be challenging, especially for small businesses. Raksha Rev
 
 ### 1. Data Acquisition
 
-- Utilized Faker to Create fake datasets relevant to the analysis objectives.
+- Utilized Faker library to Create fake datasets relevant to the analysis objectives.
 
 ### 2. Schema Creation in SQL
 
