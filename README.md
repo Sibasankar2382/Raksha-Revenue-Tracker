@@ -32,6 +32,9 @@ Managing revenue can be challenging, especially for small businesses. Raksha Rev
 ### 5. Dashboard Creation
 
 - Designed and developed interactive dashboards within Power BI to visualize key insights derived from the cleaned dataset. The dashboards provide intuitive representations of the Financial analysts who require detailed revenue reports.
+  ## Schema Design
+  ![Schema Design](https://github.com/Sibasankar2382/Raksha-Revenue-Tracker/blob/main/Schema%20Design.PNG)
+
 ## DASH BOARD
 ![Raksha Revenue Tracker](https://github.com/Sibasankar2382/Raksha-Revenue-Tracker/blob/main/Raksha%20Revenue%20BI.PNG)
 
