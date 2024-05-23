@@ -36,7 +36,7 @@ Managing revenue can be challenging, especially for small businesses. Raksha Rev
   ![Schema Design](https://github.com/Sibasankar2382/Raksha-Revenue-Tracker/blob/main/Schema%20Design.PNG)
 
 ## DASH BOARD
-![Raksha Revenue Tracker](https://github.com/Sibasankar2382/Raksha-Revenue-Tracker/blob/main/Raksha%20Revenue%20BI.PNG)
+![Raksha Revenue Tracker](https://github.com/Sibasankar2382/Raksha-Revenue-Tracker/blob/main/Raksha_pr(1).PNG)
 
 
 ## Conclusion
